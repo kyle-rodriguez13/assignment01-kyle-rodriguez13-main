@@ -126,6 +126,7 @@ bool IsEven (int number ){
 
     }
     return sum8;
+    //Comment
 
   }
   //Like the sumOfDigits this one was also hard
